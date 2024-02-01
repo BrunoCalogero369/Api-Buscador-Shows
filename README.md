@@ -6,7 +6,7 @@
 - JAVASCRIPT
 
 ### Descripción:
-Este proyecto es un buscador de peliculas y series de tv, utilizando la api de una plataforma de servicio de streaming tipo Netflix, HBO Max, etc... Lo he construido utilizado el metodo REST API con Fetch.
+Este proyecto es un buscador de peliculas y series de tv, utilizando la api de una plataforma de servicios de streaming tipo Netflix, HBO Max, etc... Lo he construido utilizado el metodo REST API con Fetch.
 
 ### Application Link
 [Visit the Application](https://api-buscador-shows.netlify.app)
