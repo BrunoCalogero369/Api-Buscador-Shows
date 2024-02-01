@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Oswald:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@1,700&display=swap');
+
+body{
+background-color: rgb(102, 2, 218);
+}
+
+h1{
+color: rgb(255, 166, 0);
+text-align: center;
+font-family: 'Oswald', sans-serif;
+font-size: 3rem;
+text-shadow: 3px 3px 6px rgb(255, 115, 0);
+margin: 2px;
+}
+
+#search-container {
+margin: .5rem;
+text-align: center;
+padding: 3px;
+}
+
+input#search {
+margin: auto;
+padding: 5px;
+}
+
+hr{
+border: 2px solid #afafaf;
+}
+
+.grid-fluid {
+text-align: center;
+}
+
+.show-container {
+display: inline-block; 
+border: 1px solid #ddd;
+font-family: 'Noto Sans', sans-serif;
+box-shadow: 3px 3px 6px #fff;
+margin: 10px;
+text-align: center;
+width: 90%; 
+}
+
+.show h3{
+font-size: 39px;
+font-family: 'PT Serif', serif;
+font-weight: bold;
+text-shadow: 3px 3px 6px #fff;
+}
+
+.show img {
+max-width: 100%;
+}
+
+.show p{
+color: #fff;
+text-shadow: 1px 1px 3px black;
+}
+
+.show a {
+display: block; 
+font-style: none;
+color: rgb(255, 166, 0);
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.show a:hover{
+color: #fff;
+}
+
+.show hr {
+border: 1px solid #afafaf;
+margin: 20px 0; 
+}
+
+.loader{
+display: block;
+margin: auto;
+padding: 6px;
+}
