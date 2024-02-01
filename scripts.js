@@ -36,6 +36,8 @@ $fragment.appendChild($clone);
 
 $shows.innerHTML = "";
 $shows.appendChild($fragment);
+
+e.target.blur();
 }
 } catch (err) {
 console.log(err);
