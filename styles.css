@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Oswald:wght@300;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@1,700&display=swap');
 
 body{
-background-color: rgb(102, 2, 218);
+background-color: rgb(39, 0, 83);
 }
 
 h1{
@@ -44,10 +43,11 @@ width: 90%;
 }
 
 .show h3{
+color: rgb(255, 166, 0);
 font-size: 39px;
-font-family: 'PT Serif', serif;
+font-family: 'Oswald', sans-serif;
 font-weight: bold;
-text-shadow: 3px 3px 6px #fff;
+text-shadow: 3px 3px 6px rgb(255, 115, 0);
 }
 
 .show img {
